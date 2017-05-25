@@ -11,16 +11,3 @@ Paypal Test Account
     }
 }
 -------------------------------------------------------
-
-
-
-Before start the server, please follow the instructions below:
-1. Start MongoDB(root path): 
-   ./mongod
-   If there was occured a unclean shutdown error while starting mongodb
-   Run "mongod --repair --dbpath data" ,then run "./mongod"
-
-   If MongoDB is already running, run "pgrep mongo", and use "kill [pid]" terminate the MongoDB services.
-
-2. Start application(workspace): 
-   node app.js
