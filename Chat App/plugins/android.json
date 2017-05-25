@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        },
+        "de.appplant.cordova.plugin.local-notification": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.chatapp.ios"
+        }
+    }
+}
