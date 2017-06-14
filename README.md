@@ -3,7 +3,9 @@ Freelance Matching System is my final year project in my school.
 
 **Used Techniques**
 Web Front-End: VueJS
+
 Web Back-End: NodeJS, MongoDB
+
 Mobile (Hybrid App): VueJS + Cordova
 
 ## License
