@@ -1,5 +1,5 @@
-# Freelance Matching System / Client-Side
-Freelance Matching System is my final year project in my school.
+# Freelance Matching System
+EC-Job is freelance matching system platform where provided a place for user to find job or freelancer.
 
 **Used Techniques**
 
